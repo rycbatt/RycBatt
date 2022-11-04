@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="20" height="20"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

@@ -13,7 +13,7 @@
 
 - ❤ Meus hobbies incluem **Natação e jogos como um bom RPG**
 
-<h3 align="left">Pode me chamar!:</h3>
+<h3 align="left">Pode me chamar!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ricardo.battaglin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ricardo.battaglin" height="30" width="40" /></a>
 <a href="https://instagram.com/ric.bn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ric.bn" height="30" width="40" /></a>

@@ -1,13 +1,13 @@
 <h1 align="center">E ai 👋, sou o Ricardo</h1>
 <h3 align="center">Amo gerenciar, </h3>
 
-- 🔭 Atualmente trabalho na em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
+- 🔭 Atualmente trabalho em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
 
 - 🌱 Atualmente estou me aprofundando **em embedding e multi-agent systems**
 
-- 🤝 Procuro colaborar em projetos que envolvam **análise de dados, gerenciamento de projetos, aprendizado de máquina, sistemas multi-agentes, python e automação de processos **
+- 🤝 Procuro colaborar em projetos que envolvam **análise de dados, gerenciamento de projetos, aprendizado de máquina, sistemas multi-agentes, python e automação de processos**
 
-- 💬 Pode ficar a vontade pra me perguntar sobre **inteligência artificial**
+- 💬 Pode ficar a vontade pra me perguntar sobre **inteligência artificial e business management**
 
 - 📫 Como me encontrar **ricardo.battaglin@gmail.com**
 

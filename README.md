@@ -1,7 +1,7 @@
 <h1 align="center">E ai 👋, sou o Ricardo</h1>
 <h3 align="center">Amo gerenciar, </h3>
 
-- 🔭 Atualmente trabalho na [@el-bravura](https://elbravura.com/)
+- 🔭 Atualmente trabalho na em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
 
 - 🌱 Atualmente estou me aprofundando **em embedding e multi-agent systems**
 

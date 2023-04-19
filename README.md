@@ -1,5 +1,5 @@
 <h1 align="center">E ai 👋, sou o Ricardo</h1>
-<h3 align="center">Amo gerenciar, </h3>
+<h3 align="center">Amo criar</h3>
 
 - 🔭 Atualmente trabalho em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
 

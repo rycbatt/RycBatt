@@ -1,9 +1,9 @@
 <h1 align="center">E ai 👋, sou o Ricardo</h1>
 <h3 align="center">Amo criar</h3>
 
-- 🔭 Atualmente trabalho em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
+- 🔭 Trabalho em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
 
-- 🌱 Atualmente estou me aprofundando **em embedding e multi-agent systems**
+- 🌱 Estou me aprofundando **em embedding e multi-agent systems**
 
 - 🤝 Procuro colaborar em projetos que envolvam **análise de dados, gerenciamento de projetos, aprendizado de máquina, sistemas multi-agentes, python e automação de processos**
 

@@ -1,7 +1,7 @@
 <h1 align="center">E ai 👋, sou o Ricardo</h1>
 <h3 align="center">Amo criar</h3>
 
-- 🔭 Trabalho em lugar nenhum e tenho uma bolsa que só me ajuda a pagar minha dieta
+- 🔭 Trabalho com data science e realizo diversos projetos com sistemas multi-agentes
 
 - 🌱 Estou me aprofundando **em embedding e multi-agent systems**
 

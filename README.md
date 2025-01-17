@@ -5,7 +5,7 @@
 
 - 🌱 Estou me aprofundando **em embedding e multi-agent systems**
 
-- 🤝 Procuro colaborar em projetos que envolvam **análise de dados, gerenciamento de projetos, aprendizado de máquina, sistemas multi-agentes, python e automação de processos**
+- 🤝 Procuro colaborar em projetos que envolvam **LLM, análise de dados, gerenciamento de projetos, aprendizado de máquina, sistemas multi-agentes, python e automação de processos**
 
 - 💬 Pode ficar a vontade pra me perguntar sobre **inteligência artificial e business management**
 
